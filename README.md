@@ -1,4 +1,4 @@
-# Final Year Project (ongoing) (updated last on 16-Oct-2022)
+# Final Year Project (ongoing) (updated last on 29-Oct-2022)
 
 ###### The goal of this project is to determine how political elites in Pakistan use social media as a source to amplify their narratives and agendas using misinformation. I have used the Twitter API to extract tweets of 32 politicians. These politicians belong to the following two political parties, i.e., Pakistan Tehreek-e-Insaf (PTI) and Pakistan Muslim League N (PMLN). These tweets (Twitter data) have been extracted in the period spanning from 01/May/2022 (5:00 am UTC) to 23/August/2022 (11:00 pm UTC). A sample of two such politicians’ tweets has been shared (Imran Khan - Founder and Leader of PTI, and Shehbaz Sharif - Leader of the PMLN party).  
 
